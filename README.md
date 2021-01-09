@@ -56,7 +56,9 @@ Requests for improvements to this catalog and changes are welcome – please eit
     * regarding the feature engineering and modelling?
     * regarding the post-processing of decisions?
 
-## Do we need to interpret the model from any of following points of view
+## Interpretation
+
+Do we need to interpret the model from any of following points of view?
 
 * Trust: show that model can make decisions previously made by humans
 * Causality: find which predictors impact the target in which way
