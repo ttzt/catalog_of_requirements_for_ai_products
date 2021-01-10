@@ -14,7 +14,11 @@ Requirements engineering is a discipline which is established in the software de
 
 Thus, it would be nice to have a catalog of requirements for an AI solution. Everything I could find on the web contained only some of the questions you need to ask. So I created a new catalog aiming to be as complete as possible.
 
-Important note: this catalog covers everything if used together with another catalog/template which includes requirements for the regular software system. Such catalogs have existed for a long time, so there’s no reason to duplicate this work. I recommend the Volere template ([free old version](http://homepages.laas.fr/kader/Robertson.pdf), [paid version](https://www.volere.org/templates/volere-requirements-specification-template/)), but you can also use another option. The catalog presented here should close the gap by adding the machine learning-specific part to common software requirements.
+Important note: this catalog covers everything if used together with another catalog/template which includes requirements for the regular software system. Such catalogs have existed for a long time, so there’s no reason to duplicate this work. I recommend the Volere template ([free old version](http://homepages.laas.fr/kader/Robertson.pdf), [paid version](https://www.volere.org/templates/volere-requirements-specification-template/)), but you can also use another option. Here is the high level overview of Volere template:
+
+![Volere Template](volere.png)
+
+The catalog presented here should close the gap by adding the machine learning-specific part to common software requirements.
 
 How to use this catalog (and the Volere template) is generally up to the user. The approach which appears pragmatic to me is to go through questions when launching your DS project (for some requirements, a clarification in the course of the project may make more sense.) Try to find the answer to every question. Answers like “doesn’t matter in our context” are explicitly allowed. For the rest of the items, search for relevant stakeholders, ask them, and document what they tell you.
 
